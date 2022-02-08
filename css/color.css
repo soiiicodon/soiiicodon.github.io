@@ -105,6 +105,10 @@ table th {
 	margin: 0px 10px 20px 10px;
 }
 
+h2 {
+	padding: 10px 20px;
+}
+
 @media(max-width: 800px) {
 	#left_side {
 		flex: 100%;

@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#ds {
+    padding: 10px 20px 0px 20px;
+}
+
+#flex_container {
+    display: flex;
+    flex: nowrap;
+}
+
+#flex_left {
+    flex: 70%;
+    background-color: #f1f1f1;
+}
+
+#flex_right {
+    flex: 30%;
+}
+a {
+    margin: 0;
+}
+
+.content {
+    padding: 10px 56px 10px 0px;
+}
